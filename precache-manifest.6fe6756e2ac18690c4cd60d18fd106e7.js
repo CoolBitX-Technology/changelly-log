@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23aa6d01cf17afba7fb9d95268c9673a",
+    "revision": "2ff57fe85032cc1b97bc8ba66aa844d6",
     "url": "/changelly-log/index.html"
   },
   {
-    "revision": "35238f8c004f8350ec8b",
+    "revision": "c6a07d86c79104200579",
     "url": "/changelly-log/static/css/main.1d59d1eb.chunk.css"
   },
   {
-    "revision": "5055c1bb3751934f354f",
-    "url": "/changelly-log/static/js/2.26769d6b.chunk.js"
+    "revision": "2ac2ecf098564e8f5bf1",
+    "url": "/changelly-log/static/js/2.3e2252db.chunk.js"
   },
   {
     "revision": "b1bd7d111be11bf1a60de02093538313",
-    "url": "/changelly-log/static/js/2.26769d6b.chunk.js.LICENSE"
+    "url": "/changelly-log/static/js/2.3e2252db.chunk.js.LICENSE"
   },
   {
-    "revision": "35238f8c004f8350ec8b",
-    "url": "/changelly-log/static/js/main.012642b6.chunk.js"
+    "revision": "c6a07d86c79104200579",
+    "url": "/changelly-log/static/js/main.b667043b.chunk.js"
   },
   {
     "revision": "fb3b155d4bf6880c836c",

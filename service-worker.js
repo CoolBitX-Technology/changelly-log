@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/changelly-log/precache-manifest.50bf2417ad8e178dab443239f6c7b931.js"
+  "/changelly-log/precache-manifest.6fe6756e2ac18690c4cd60d18fd106e7.js"
 );
 
 self.addEventListener('message', (event) => {

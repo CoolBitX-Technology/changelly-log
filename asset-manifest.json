@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/changelly-log/static/css/main.1d59d1eb.chunk.css",
-    "main.js": "/changelly-log/static/js/main.b667043b.chunk.js",
-    "main.js.map": "/changelly-log/static/js/main.b667043b.chunk.js.map",
+    "main.js": "/changelly-log/static/js/main.dfff7c93.chunk.js",
+    "main.js.map": "/changelly-log/static/js/main.dfff7c93.chunk.js.map",
     "runtime-main.js": "/changelly-log/static/js/runtime-main.34f5d7e0.js",
     "runtime-main.js.map": "/changelly-log/static/js/runtime-main.34f5d7e0.js.map",
-    "static/js/2.3e2252db.chunk.js": "/changelly-log/static/js/2.3e2252db.chunk.js",
-    "static/js/2.3e2252db.chunk.js.map": "/changelly-log/static/js/2.3e2252db.chunk.js.map",
+    "static/js/2.f0e166c0.chunk.js": "/changelly-log/static/js/2.f0e166c0.chunk.js",
+    "static/js/2.f0e166c0.chunk.js.map": "/changelly-log/static/js/2.f0e166c0.chunk.js.map",
     "index.html": "/changelly-log/index.html",
-    "precache-manifest.6fe6756e2ac18690c4cd60d18fd106e7.js": "/changelly-log/precache-manifest.6fe6756e2ac18690c4cd60d18fd106e7.js",
+    "precache-manifest.f6016ac685458f453c58b2d8a503f8dc.js": "/changelly-log/precache-manifest.f6016ac685458f453c58b2d8a503f8dc.js",
     "service-worker.js": "/changelly-log/service-worker.js",
     "static/css/main.1d59d1eb.chunk.css.map": "/changelly-log/static/css/main.1d59d1eb.chunk.css.map",
-    "static/js/2.3e2252db.chunk.js.LICENSE": "/changelly-log/static/js/2.3e2252db.chunk.js.LICENSE",
+    "static/js/2.f0e166c0.chunk.js.LICENSE": "/changelly-log/static/js/2.f0e166c0.chunk.js.LICENSE",
     "static/media/changelly-logo.png": "/changelly-log/static/media/changelly-logo.1cd0e575.png"
   },
   "entrypoints": [
     "static/js/runtime-main.34f5d7e0.js",
-    "static/js/2.3e2252db.chunk.js",
+    "static/js/2.f0e166c0.chunk.js",
     "static/css/main.1d59d1eb.chunk.css",
-    "static/js/main.b667043b.chunk.js"
+    "static/js/main.dfff7c93.chunk.js"
   ]
 }
